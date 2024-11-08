@@ -9,3 +9,7 @@ The Java cryptBytes function is used to generate hashes of the format $SHA$salt$
 
 */ base64hash is the base64-encoded result of the SHA-1 hash function applied to the input data with the specified salt.
 
+Example:
+
+└─# python3 CryptBytes_hash_decoder.py '$SHA$d$uxqa_QaVBpDWFeo8-dRzDqRzXQ2s'
+
